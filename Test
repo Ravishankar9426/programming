@@ -1,0 +1,29 @@
+# a = 10
+# b = 20
+# print(a>b)
+
+# x = 15
+# y = 15
+# print(x ==y)
+
+# age =25
+# print(age > 18)
+
+# age = 17
+# print(age > 18)
+
+# a = 10
+# b = 20
+# print(a!=b)
+
+# age = 21
+# if age >= 18:
+#     print("adult")
+# else:
+#     print("minor")
+
+num = -5
+if num > 0:
+    print("positive number")    
+else:
+    print("negative number")

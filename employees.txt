@@ -1,0 +1,20 @@
+Name: Aathira
+Age: 28
+Salary: 17000
+----------------
+Name: Ravi
+Age: 32
+Salary: 51600
+----------------
+Name: Shankar
+Age: 32
+Salary: 45000
+----------------
+Name: Arjun
+Age: 3
+Salary: 32000
+----------------
+Name: Reventh
+Age: 30
+Salary: 89000
+----------------
